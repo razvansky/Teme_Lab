@@ -1,0 +1,51 @@
+[
+  {
+    "denumire": "Baie",
+    "placi": [
+      {
+        "descriere": "raft mobil",
+        "lungime": 120,
+        "latime": 70,
+        "orientare": "LATIME",
+        "canturi": [
+          true,
+          false,
+          true,
+          true
+        ],
+        "nr_bucati": 3
+      },
+      {
+        "descriere": "usa",
+        "lungime": 120,
+        "latime": 90,
+        "orientare": "LUNGIME",
+        "canturi": [
+          true,
+          false,
+          true,
+          true
+        ],
+        "nr_bucati": 1
+      }
+    ]
+  },
+  {
+    "denumire": "Sufragerie",
+    "placi": [
+      {
+        "descriere": "capac",
+        "lungime": 70,
+        "latime": 30,
+        "orientare": "ORICARE",
+        "canturi": [
+          true,
+          false,
+          true,
+          true
+        ],
+        "nr_bucati": 2
+      }
+    ]
+  }
+]

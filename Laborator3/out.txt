@@ -1,0 +1,2 @@
+Denumire: zahar, Pret: 1.5, Cantitate: 50, Data expirarii: 2025-02-25
+Denumire: miere, Pret: 7.5, Cantitate: 20, Data expirarii: 2024-09-24
